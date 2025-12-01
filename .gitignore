@@ -1,0 +1,11 @@
+# secrets
+.env
+
+# database
+data/gang.db
+
+# cache
+__pycache__/
+
+# logs
+logs/
